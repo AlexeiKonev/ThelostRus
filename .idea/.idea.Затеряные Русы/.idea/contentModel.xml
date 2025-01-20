@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\alex\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\alex\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Затеряные Русы.-1425212999.00" t="ExcludeRecursive" />
+    <e p="D:\Unity 2018\проекты\Затеряные Русы" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Main.cs" t="Include" />
+        <e p="NewBehaviourScript.cs" t="Include" />
+        <e p="The lost Rus" t="Include">
+          <e p="scripts" t="Include">
+            <e p="Game.cs" t="Include" />
+            <e p="HeroProvider.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Затеряные Русы.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
