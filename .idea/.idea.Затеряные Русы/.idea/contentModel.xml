@@ -10,6 +10,7 @@
         <e p="NewBehaviourScript.cs" t="Include" />
         <e p="The lost Rus" t="Include">
           <e p="scripts" t="Include">
+            <e p="EnemySpawnView.cs" t="Include" />
             <e p="Game.cs" t="Include" />
             <e p="HeroProvider.cs" t="Include" />
           </e>

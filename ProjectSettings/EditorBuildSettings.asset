@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/The lost Rus/Scenes/lostrusi/lostrusi003.unity
+    guid: b767cea9044d4574d8815d47a63f6f2f
+  - enabled: 1
+    path: Assets/The lost Rus/Scenes/lostrusi/lostrusi002.unity
+    guid: 85bd041940a534d44863a6267d3966e8
   m_configObjects: {}
